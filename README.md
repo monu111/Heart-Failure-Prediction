@@ -32,7 +32,20 @@ DEATH EVENT<br>(TARGET)|	If the patient died during the follow-up period|	Boolea
 
 
 ## Model Performance :
+![1](https://user-images.githubusercontent.com/29980448/106421132-30ab7080-6482-11eb-8051-964552628274.png)
 
-![models](https://user-images.githubusercontent.com/29980448/106164487-0753c180-61b0-11eb-924b-3ee8c288df5f.png)
+## Conclusion:
+- **43% of the population under study have aneamic symptoms while ~57% are non-aneamic.**
+- **42% of the population have diabetes while ~58% don't have non-diabetes.**
+- **35% of the population have hypertension or high bloob pressure while ~65% have normal blood pressure.**
+- **65% of the population are male while ~35% are female.**
+- **68% of the population have smoking habits while ~32% are non-smokers.**
+- **In the population being studied for the condition of heart failure out of the 299 cases, 96 have succumbed to the condition while 203 cases survived.**
+
+- **In percentages, 32.11% of the cases succumbed (positive examples) while 67.89% cases survived (negative examples) the condition.**
+
+ 
+- **After training our dataset with seven different model, we conclude that __RandomForest__  is best model for our dataset. (via the highest accuracy score = 0.90)**
+
 
 
